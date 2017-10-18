@@ -1,6 +1,6 @@
-# HTTP Responses
+# HTTP Responses <a href="https://travis-ci.org/lohanbodevan/http-responses"><img alt="Travis Status" src="https://travis-ci.org/lohanbodevan/http-responses.svg?branch=master"></a> [![Coverage Status](https://coveralls.io/repos/github/lohanbodevan/http-responses/badge.svg)](https://coveralls.io/github/lohanbodevan/http-responses)
 
-Dont't spend time writing personalized response body for non-success requests.
+Don't spend time writing personalized response body for non-success requests.
 
 ## How to use?
 1. Install lib
