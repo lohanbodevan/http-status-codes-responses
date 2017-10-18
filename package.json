@@ -1,0 +1,26 @@
+{
+  "name": "http-responses",
+  "version": "0.1.0",
+  "description": "HTTP Response with status code",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/nyc/bin/nyc.js mocha ./test --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lohanbodevan/http-responses"
+  },
+  "author": "Lohan Bodevan",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "nyc": "^11.2.1",
+    "should": "^13.1.2"
+  },
+  "dependencies": {
+    "http-status-codes": "^1.3.0"
+  }
+}
