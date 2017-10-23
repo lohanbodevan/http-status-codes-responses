@@ -1,4 +1,4 @@
-# HTTP Responses <a href="https://travis-ci.org/lohanbodevan/http-responses"><img alt="Travis Status" src="https://travis-ci.org/lohanbodevan/http-responses.svg?branch=master"></a> [![Coverage Status](https://coveralls.io/repos/github/lohanbodevan/http-responses/badge.svg)](https://coveralls.io/github/lohanbodevan/http-responses) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/greatjapa/http-responses/blob/master/LICENSE)
+# HTTP Responses <a href="https://travis-ci.org/lohanbodevan/http-responses"><img alt="Travis Status" src="https://travis-ci.org/lohanbodevan/http-responses.svg?branch=master"></a> [![Coverage Status](https://coveralls.io/repos/github/lohanbodevan/http-responses/badge.svg)](https://coveralls.io/github/lohanbodevan/http-responses) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/lohanbodevan/http-responses/blob/master/LICENSE)
 
 
 Don't spend time writing personalized response body for non-success requests.
