@@ -1,6 +1,6 @@
 {
   "name": "http-status-codes-responses",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "HTTP Status Codes Response",
   "main": "index.js",
   "directories": {
