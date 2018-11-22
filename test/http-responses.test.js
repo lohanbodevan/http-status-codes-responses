@@ -2,7 +2,7 @@ require("should");
 
 const response = require('../index');
 
-describe('HTTP Responses', () => {
+describe('HTTP Status Codes Responses', () => {
     it('call accepted method should return 202 status code and correct message', () => {
         let ctx = {};
         response.accepted(ctx);

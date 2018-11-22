@@ -1,4 +1,4 @@
-# HTTP Responses <a href="https://travis-ci.org/lohanbodevan/http-responses"><img alt="Travis Status" src="https://travis-ci.org/lohanbodevan/http-responses.svg?branch=master"></a> [![Coverage Status](https://coveralls.io/repos/github/lohanbodevan/http-responses/badge.svg)](https://coveralls.io/github/lohanbodevan/http-responses) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/lohanbodevan/http-responses/blob/master/LICENSE)
+# HTTP Status Codes Responses <a href="https://travis-ci.org/lohanbodevan/http-status-codes-responses"><img alt="Travis Status" src="https://travis-ci.org/lohanbodevan/http-status-codes-responses.svg?branch=master"></a> [![Coverage Status](https://coveralls.io/repos/github/lohanbodevan/http-status-codes-responses/badge.svg?branch=master)](https://coveralls.io/github/lohanbodevan/http-status-codes-responses?branch=master) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/lohanbodevan/http-status-codes-responses/blob/master/LICENSE)
 
 
 Don't spend time writing personalized response body for non-success requests.
@@ -6,12 +6,12 @@ Don't spend time writing personalized response body for non-success requests.
 ## How to use?
 1. Install lib
 ```bash
-npm install git+https://github.com/lohanbodevan/http-responses.git
+npm install http-status-codes-responses
 ```
 
 2. Use it
 ```javascript
-const {ok, notFound} = require('http-responses');
+const {ok, notFound} = require('http-status-codes-responses');
 
 const person = new Person();
 let john = person.findOne(1);
